@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Armon Johnson</h1>
-<h3 align="center">🚀 Cloud Computing Enthusiast | AWS Certified Cloud Practitioner | Future AWS Solutions Architect</h3>
+<h3 align="center">🚀 Cloud Computing Enthusiast | AWS Certified Cloud Practitioner & AWS Certified Solutions Architect Associate |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=armonjohnson&label=Profile%20views&color=0e75b6&style=flat" alt="armonjohnson" />
@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building towards the **AWS Solutions Architect Associate** certification  
+- 🔭 Currently building towards the **AWS AI Practitioner** certification  
 - 🌱 Exploring **CloudFormation**, **Serverless Architecture**, and **Terraform**  
 - 🤝 Looking to collaborate on **cloud-native projects**  
 - 💬 Ask me about **AWS, Python projects, Cloud Infrastructure**  
